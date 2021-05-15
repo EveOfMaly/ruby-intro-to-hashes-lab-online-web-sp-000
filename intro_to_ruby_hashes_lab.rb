@@ -32,7 +32,6 @@ hash = {:railroads =>
                   :pennsylvania_railroad => {},
                   :b_and_o_railroad => {},
                   :shortline => {}
-                  
                 }, 
               :rent_in_dollars => 
                 {
