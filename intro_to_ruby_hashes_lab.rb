@@ -64,7 +64,7 @@ hash = {:railroads =>
                     },
                   :shortline => 
                     {
-                      
+                      "mortgage_value" => '$900'
                     }
                 }, 
               :rent_in_dollars => 
