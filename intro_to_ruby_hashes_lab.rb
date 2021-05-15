@@ -30,7 +30,9 @@ hash = {:railroads =>
                 {
                   :reading_railroad => {},
                   :pennsylvania_railroad => {},
+                  :b_and_o_railroad => {},
                   :b_and_o_railroad => {}
+                  
                 }, 
               :rent_in_dollars => 
                 {
