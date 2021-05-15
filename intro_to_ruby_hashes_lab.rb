@@ -52,7 +52,7 @@ hash = {:railroads =>
                 {
                   :reading_railroad => 
                     {
-                      
+                      mortgage_value => '$100'
                     },
                   :pennsylvania_railroad => {},
                   :b_and_o_railroad => {},
